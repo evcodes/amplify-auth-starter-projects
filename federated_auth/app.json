@@ -1,0 +1,12 @@
+{
+  "name": "federated_auth",
+  "displayName": "federated_auth",
+  "expo": {
+    "name": "federated_auth",
+    "slug": "federated_auth",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
